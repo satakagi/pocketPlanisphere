@@ -1,9 +1,11 @@
 星座早見スコープ
 
 筐体と光学系の設計図は、Housing_LensCell_Design.odg を参照してください。
-　設計図中の地平線マスクと星座原板は、Mask_and_Disk_A4.pptx ：両方入り
-　、DiscOnly_A4.pptx・MaskOutlineOnly_A4.odp・MaskOutlineOnly_Roland.odp ：別個
-　を参照ください。
+
+設計図中の地平線マスクと星座原板は、
+　Mask_and_Disk_A4.pptx ：両方入り　もしくは
+　DiscOnly_A4.pptx・MaskOutlineOnly_A4.odp・MaskOutlineOnly_Roland.odp ：別個　を使用します。
+　原版は2400dpi以上のインクジェットプリンタを用い、光沢紙(例:0.15mm Bufflalo BSIJGSA450)に印刷します。透過光で適当な明るさを得ます。
 　
 レンズ部筒、バックライト部筒にはそれぞれスケールを貼り付けます。
 　スケールの目盛りは地平線マスクおよび星座原板外周の目盛りに一致させます。
