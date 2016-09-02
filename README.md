@@ -4,6 +4,8 @@ This Repo. is blueprints for making pockettable planisphere scope kit.
 
 Original production master of planisphere disc is brought from http://hoshifuru.jp/
 
+This blueprint is a Japanese version though regrettable. 
+
 ===
 
 * [HousingMaterial.txt](https://github.com/satakagi/pocketPlanisphere/blob/master/HousingMaterial.txt) and [Housing_LensCell_Design.odg](https://github.com/satakagi/pocketPlanisphere/blob/master/Housing_LensCell_Design.odg) explains housing and optical systems for the scope.
